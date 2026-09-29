@@ -1,3 +1,3 @@
 # LEETCODE
--TwoSum
--BestTimeToBuyAndSellStock(121)
+  -TwoSum
+  -BestTimeToBuyAndSellStock(121)
